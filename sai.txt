@@ -1,2 +1,6 @@
 Hi master!!!!
+<<<<<<< HEAD
 hi sai
+=======
+Hi SAI RAM V
+>>>>>>> 6c54119... bug fixed
